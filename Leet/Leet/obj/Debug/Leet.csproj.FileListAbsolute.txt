@@ -1,0 +1,8 @@
+C:\GitRepos\LeetCode\Leet\Leet\obj\Debug\Leet.csproj.AssemblyReference.cache
+C:\GitRepos\LeetCode\Leet\Leet\obj\Debug\Leet.csproj.SuggestedBindingRedirects.cache
+C:\GitRepos\LeetCode\Leet\Leet\obj\Debug\Leet.csproj.CoreCompileInputs.cache
+C:\GitRepos\LeetCode\Leet\Leet\bin\Debug\Leet.exe.config
+C:\GitRepos\LeetCode\Leet\Leet\bin\Debug\Leet.exe
+C:\GitRepos\LeetCode\Leet\Leet\bin\Debug\Leet.pdb
+C:\GitRepos\LeetCode\Leet\Leet\obj\Debug\Leet.exe
+C:\GitRepos\LeetCode\Leet\Leet\obj\Debug\Leet.pdb
